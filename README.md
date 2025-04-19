@@ -7,7 +7,7 @@ src="https://files.catbox.moe/6jyuxe.jpeg">
 
    </p>
 <p align="center">
-<a href="https://github.com/nectorofficial"><img title="Author" src="https://img.shields.io/badge/Hector-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@official_manuel"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/254725474072"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/nectorofficial"><img title="Author" src="https://img.shields.io/badge/nector-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@nector_official"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/254725474072"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
  <p align="center">
