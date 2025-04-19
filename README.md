@@ -8,24 +8,24 @@ src="https://i.imgur.com/GVW7aoD.jpeg">
 
    </p>
 <p align="center">
-<a href="https://github.com/OfficialKango"><img title="Author" src="https://img.shields.io/badge/Hector-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@official_manuel"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/233509977126"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/nectorofficial"><img title="Author" src="https://img.shields.io/badge/Hector-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@official_manuel"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/254725474072"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
  <p align="center">
-<a href="https://github.com/OfficialKango/followers"><img title="Followers" src="https://img.shields.io/github/followers/OfficialKango?color=purple&style=flat-square"></a>
-<a href="https://github.com/OfficialKango/KANGO-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/OfficialKango/KANGO-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/OfficialKango/KANGO-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/OfficialKango/KANGO-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/OfficialKango/KANGO-XMD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/OfficialKango/KANGO-XMD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/OfficialKango/KANGO-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/OfficialKango/KANGO-XMD?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOfficialKango%2FKANGO-XMD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/OfficialKango/KANGO-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
-<p align="center"><img src="https://profile-counter.glitch.me/{KANGO-XMD}/count.svg" alt="OfficialKango :: Visitor's Count" old_src="https://profile-counter.glitch.me/{OfficialKango}/count.svg" /></p>
+<a href="https://github.com/nectorofficial/followers"><img title="Followers" src="https://img.shields.io/github/followers/nectorofficial?color=purple&style=flat-square"></a>
+<a href="https://github.com/OfficialKango/nector-xmd/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nectorofficial/nector-xmd?color=blue&style=flat-square"></a>
+<a href="https://github.com/nectorofficial/nector-xmd/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nectorofficial/nector-xmd?color=blue&style=flat-square"></a>
+<a href="https://github.com/nectorofficial/nector-xmd/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/nectorofficial/nector-xmd?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/nectorofficial/nector-xmd/"><img title="Size" src="https://img.shields.io/github/repo-size/nectorofficial/nector-xmd?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnectorofficial%2Fnector-xmd&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/nectorofficial/nector-xmd/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
+<p align="center"><img src="https://profile-counter.glitch.me/{nector-xmd}/count.svg" alt="nectorofficial :: Visitor's Count" old_src="https://profile-counter.glitch.me/{nectorofficial}/count.svg" /></p>
 <p align="center">
-<a href="https://github.com/OfficialKango/KANGO-XMD"Kango"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=KANGO-XMD&label=VIEWS&style=flat-square&color=blue" />
+<a href="https://github.com/nectorofficial/nector-xmd"nector"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=nector-xmd&label=VIEWS&style=flat-square&color=blue" />
 </a>
 <p align="center">
-  <a href="https://github.com/OfficialKango/KANGO-XMD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/nectorofficial/nector-xmd"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
 
 <p align='center'>
     </p>
@@ -41,7 +41,7 @@ Click the button below to fork QUEEN ADIZA Repository to your GitHub account:
 
   <br>
     <p align="left">
-  <a href="https://github.com/OfficialKango/KANGO-XMD/fork"><img title="KANGO-XMD" src="https://img.shields.io/badge/FORK-KANGO-XMDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/nectorofficial/nector-xmd/fork"><img title="nector-xmd" src="https://img.shields.io/badge/FORK-nector-xmdh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -95,7 +95,7 @@ Click the button below to fork QUEEN ADIZA Repository to your GitHub account:
 <br>
 > Click below to download the bot file :
 <p align="left">
-<a href="https://github.com/OfficialKango/KANGO-XMD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-green" alt="Rainhost Files" width="150"></a>
+<a href="https://github.com/nectorofficial/nector-xmd/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-green" alt="Rainhost Files" width="150"></a>
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
   
