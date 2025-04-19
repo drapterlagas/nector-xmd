@@ -1,7 +1,7 @@
 
 
 <img align="center" height="auto"
-src="https://i.imgur.com/GVW7aoD.jpeg">
+src="[https://i.imgur.com/GVW7aoD.jpeg]([https://files.catbox.moe/6jyuxe.jpeg](https://files.catbox.moe/6jyuxe.jpeg))">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=n+e+c+t+o+r+x+m+d+▇)](https://git.io/typing-svg)
 <br>
