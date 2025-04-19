@@ -3,7 +3,7 @@
 <img align="center" height="auto"
 src="https://i.imgur.com/GVW7aoD.jpeg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=K+A+N+G+O+X+M+D+▇)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=n+e+c+t+o+r+x+m+d+▇)](https://git.io/typing-svg)
 <br>
 
    </p>
@@ -37,7 +37,7 @@ src="https://i.imgur.com/GVW7aoD.jpeg">
 
 1. Fork and star this repo first
 
-Click the button below to fork QUEEN ADIZA Repository to your GitHub account:
+Click the button below to fork nector-xmd Repository to your GitHub account:
 
   <br>
     <p align="left">
