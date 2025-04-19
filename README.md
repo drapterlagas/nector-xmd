@@ -12,7 +12,7 @@ src="https://files.catbox.moe/6jyuxe.jpeg">
 
  <p align="center">
 <a href="https://github.com/nectorofficial/followers"><img title="Followers" src="https://img.shields.io/github/followers/nectorofficial?color=purple&style=flat-square"></a>
-<a href="https://github.com/OfficialKango/nector-xmd/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nectorofficial/nector-xmd?color=blue&style=flat-square"></a>
+<a href="https://github.com/nectorofficial/nector-xmd/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nectorofficial/nector-xmd?color=blue&style=flat-square"></a>
 <a href="https://github.com/nectorofficial/nector-xmd/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nectorofficial/nector-xmd?color=blue&style=flat-square"></a>
 <a href="https://github.com/nectorofficial/nector-xmd/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/nectorofficial/nector-xmd?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/nectorofficial/nector-xmd/"><img title="Size" src="https://img.shields.io/github/repo-size/nectorofficial/nector-xmd?style=flat-square&color=green"></a>
